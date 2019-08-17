@@ -1,5 +1,16 @@
-# pycrawler
-> An asynchronous webcrawler written in Python.
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/classAndrew/pycrawler">
+    <img src="https://i.imgur.com/Bn1dCVU.png" alt="Logo" width=256 height=128>
+  </a>
+  <h1 align="center">pyCrawler</h3>
+
+  <h3 align="center">
+        An asynchronous webcrawler written in Python.
+</p>
+
 
 ## Examples
 - Basic Example
