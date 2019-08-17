@@ -43,13 +43,7 @@ class Crawler:
 
 
 async def main():
-    rn = time.time()
-    async with aiohttp.ClientSession() as session:
-        c = Crawler("https://en.wikipedia.org/wiki/Food", session)
-        stuff = await c.start(2, 50)
-        c.write_out("links.txt")
-    print(time.time()-rn)
-    print(len(stuff))
+    pass
         
         
     
